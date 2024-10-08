@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy un chico de 20 años que ha estudiado Desarrollo de Aplicaciones Multiplataforma (DAM). Me apasiona la programación y disfruto aprender nuevas tecnologías.<br><br>💻 Tengo experiencia en Java, SQL, HTML/CSS, y me gusta trabajar en proyectos que me desafíen.<br><br>🚀 Siempre estoy buscando mejorar mis habilidades y contribuir a proyectos interesantes. ¡No dudes en contactarme!
+👋 ¡Hola! Soy Alejandro Jimenez, un chico de 20 años que ha estudiado Desarrollo de Aplicaciones Multiplataforma (DAM). Me apasiona la programación y disfruto aprender nuevas tecnologías.<br><br>💻 Tengo experiencia en Java, SQL, HTML/CSS, y me gusta trabajar en proyectos que me desafíen.<br><br>🚀 Siempre estoy buscando mejorar mis habilidades y contribuir a proyectos interesantes. ¡No dudes en contactarme!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlejandroJimenez16) 

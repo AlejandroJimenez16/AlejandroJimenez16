@@ -4,6 +4,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlejandroJimenez16) 
 
+## 42 Madrid
+[![alejandj's 42 stats](https://badge.mediaplus.ma/greenbinary/alejandj?1337Badge=off)](https://github.com/oakoudad/badge42)
+
 # 💻 Tech Stack:
 
 ### Lenguajes de Programación:

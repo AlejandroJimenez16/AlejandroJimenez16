@@ -1,53 +1,41 @@
-# 💫 About Me:
-👋 ¡Hola! Soy Alejandro Jimenez, un chico de 20 años que ha estudiado Desarrollo de Aplicaciones Multiplataforma (DAM). Me apasiona la programación y disfruto aprender nuevas tecnologías.<br><br>💻 Tengo experiencia en Java, SQL, HTML/CSS, y me gusta trabajar en proyectos que me desafíen.<br><br>🚀 Siempre estoy buscando mejorar mis habilidades y contribuir a proyectos interesantes. ¡No dudes en contactarme!
+# 💫 Alejandro Jiménez García | Software Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&vCenter=true&width=435&lines=%F0%9F%9A%80+Buscando+trabajo;%F0%9F%8E%93+Finalizando+42+Madrid;%F0%9F%92%BB+DAM+%2B+42+Madrid)](https://git.io/typing-svg)
+
+👋 ¡Hola! Soy **Alejandro Jiménez**, apasionado por el desarrollo de software y por la resolución de problemas complejos.
+
+🎓 He completado el grado superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y me encuentro en la recta final de **42 Madrid**, un campus de programación peer-to-peer (sin profesores) donde he desarrollado una alta capacidad de adaptación, lógica avanzada y trabajo colaborativo.
+
+🚀 Actualmente busco nuevas oportunidades laborales donde poder aportar y seguir creciendo profesionalmente.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlejandroJimenez16) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlejandroJimenez16)
 
 ## 🎓 42 Madrid
 [![alejandj's 42 stats](https://badge.mediaplus.ma/greenbinary/alejandj?1337Badge=off)](https://github.com/oakoudad/badge42)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### Lenguajes de Programación:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://api.iconify.design/logos:java.svg" width="50" height="50" alt="Java"> <img src="https://api.iconify.design/logos:c.svg" width="50" height="50" alt="C"> <img src="https://api.iconify.design/logos:c-plusplus.svg" width="50" height="50" alt="C++"> <img src="https://api.iconify.design/logos:python.svg" width="50" height="50" alt="Python"> <img src="https://api.iconify.design/logos:bash-icon.svg" width="50" height="50" alt="Bash">
 
 ### Desarrollo Web:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"> <img src="https://api.iconify.design/logos:javascript.svg" width="50" height="50" alt="JavaScript">
 
 ### Bases de Datos:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://api.iconify.design/logos:mysql.svg" width="50" height="50" alt="MySQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite">
 
 ### Inteligencia Artificial:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<img src="https://api.iconify.design/logos:tensorflow.svg" width="50" height="50" alt="TensorFlow">
 
-### Desarrollo de Juegos:
-![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-### Control de Versiones y Colaboración:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black)
+### Desarrollo de Videojuegos:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" alt="Unity"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50" height="50" alt="Godot">
 
 ### IDEs:
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://api.iconify.design/logos:visual-studio-code.svg" width="50" height="50" alt="Visual Studio Code"> <img src="https://api.iconify.design/logos:intellij-idea.svg" width="50" height="50" alt="IntelliJ IDEA"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlejandroJimenez16&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroJimenez16&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroJimenez16&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Control de Versiones:
+<img src="https://api.iconify.design/logos:git-icon.svg" width="50" height="50" alt="Git"> <img src="https://cdn.simpleicons.org/github/ffffff" width="50" height="50" alt="GitHub">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlejandroJimenez16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlejandroJimenez16&limit=5&theme=jolly&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AlejandroJimenez16&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroJimenez16&theme=jolly&hide_border=false)

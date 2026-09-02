@@ -17,25 +17,25 @@
 ## 💻 Tech Stack:
 
 ### Lenguajes de Programación:
-<img src="https://api.iconify.design/logos:java.svg" width="50" height="50" alt="Java"> <img src="https://api.iconify.design/logos:c.svg" width="50" height="50" alt="C"> <img src="https://api.iconify.design/logos:c-plusplus.svg" width="50" height="50" alt="C++"> <img src="https://api.iconify.design/logos:python.svg" width="50" height="50" alt="Python"> <img src="https://api.iconify.design/logos:bash-icon.svg" width="50" height="50" alt="Bash">
-
-### Desarrollo Web:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"> <img src="https://api.iconify.design/logos:javascript.svg" width="50" height="50" alt="JavaScript">
+<img src="https://api.iconify.design/logos:java.svg" width="50" height="50" alt="Java"> <img src="https://api.iconify.design/logos:c.svg" width="50" height="50" alt="C"> <img src="https://api.iconify.design/logos:c-plusplus.svg" width="50" height="50" alt="C++"> <img src="https://api.iconify.design/logos:python.svg" width="50" height="50" alt="Python">
 
 ### Bases de Datos:
 <img src="https://api.iconify.design/logos:mysql.svg" width="50" height="50" alt="MySQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite">
 
-### Inteligencia Artificial:
-<img src="https://api.iconify.design/logos:tensorflow.svg" width="50" height="50" alt="TensorFlow">
+### Desarrollo Web:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"> <img src="https://api.iconify.design/logos:javascript.svg" width="50" height="50" alt="JavaScript">
 
 ### Desarrollo de Videojuegos:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" alt="Unity"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50" height="50" alt="Godot">
 
+### Inteligencia Artificial:
+<img src="https://api.iconify.design/logos:tensorflow.svg" width="50" height="50" alt="TensorFlow">
+
+### Sistemas y herramientas:
+<img src="https://api.iconify.design/logos:linux-tux.svg" width="50" height="50" alt="Linux"> <img src="https://api.iconify.design/logos:bash-icon.svg" width="50" height="50" alt="Bash"> <img src="https://api.iconify.design/logos:git-icon.svg" width="50" height="50" alt="Git"> <img src="https://cdn.simpleicons.org/github/ffffff" width="50" height="50" alt="GitHub">
+
 ### IDEs:
 <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="50" height="50" alt="Visual Studio Code"> <img src="https://api.iconify.design/logos:intellij-idea.svg" width="50" height="50" alt="IntelliJ IDEA"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio">
-
-### Control de Versiones:
-<img src="https://api.iconify.design/logos:git-icon.svg" width="50" height="50" alt="Git"> <img src="https://cdn.simpleicons.org/github/ffffff" width="50" height="50" alt="GitHub">
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroJimenez16&theme=jolly&hide_border=false)
